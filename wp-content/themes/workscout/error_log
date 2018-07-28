@@ -1,0 +1,12 @@
+[10-Feb-2018 18:19:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/sunilkp/public_html/wp-content/themes/workscout/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/sunilkp/public_html/wp-content/themes/workscout/404.php on line 10
+[10-Feb-2018 18:19:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/sunilkp/public_html/wp-content/themes/workscout/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/sunilkp/public_html/wp-content/themes/workscout/404.php on line 10
+[07-May-2018 04:00:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/sunilkp/public_html/wp-content/themes/workscout/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/sunilkp/public_html/wp-content/themes/workscout/404.php on line 10
